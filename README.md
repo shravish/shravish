@@ -28,7 +28,7 @@ I'm always curious, always learning, and open to collaborating on exciting proje
  🌍 Open to exciting opportunities — especially in tech-driven companies
 
 
- ### Languages & Tools
+ ### Languages & Tools:
 
 <p>
 <img align="center" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" alt="Python" height="auto" width="20"/> Python <br />
