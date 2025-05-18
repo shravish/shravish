@@ -14,14 +14,11 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi, I'm Shravani V
 
-## About:
+### About:
 <p>
 I'm a backend developer passionate about building reliable, scalable systems that solve real-world problems.<br />
-
 I have experience working with microservices, message queues (like RabbitMQ), RESTful APIs, and containerized deployments using Docker.<br />
-
 I enjoy clean architecture, well-tested code, and tackling performance bottlenecks. Currently, I'm diving deeper into distributed systems and async processing.<br />
-
 I'm always curious, always learning, and open to collaborating on exciting projects — especially in fast-paced, tech-forward environments<br />
 </p>
 
