@@ -37,4 +37,6 @@ I'm always curious, always learning, and open to collaborating on exciting proje
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="auto" width="20"/> VS Code <br />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="auto" width="20"/> git <br />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" height="auto" width="20"/> Jira <br />
+<img align="center" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" height="auto" width="20"/> Postgresql <br />
+<img align="center" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" alt="Postman" height="auto" width="20"/> Postman <br /> 
 </p>
