@@ -21,10 +21,10 @@ Here are some ideas to get you started:
  ### Languages & Tools
 
 <p>
-<img align="center" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" alt="Python" height="auto" width="20"/> Python |
-<img align="center" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg" alt="Django" height="auto" width="20"/> Django |
-<img align="center" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/djangorest/djangorest-original.svg" alt="Django Rest Framework" height="auto" width="20"/> Django Rest Framework |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="auto" width="20"/> VS Code |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="auto" width="20"/> git |
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" height="auto" width="20"/> Jira |
+<img align="center" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" alt="Python" height="auto" width="20"/> Python <br />
+<img align="center" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg" alt="Django" height="auto" width="20"/> Django <br />
+<img align="center" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/djangorest/djangorest-original.svg" alt="Django Rest Framework" height="auto" width="20"/> Django Rest Framework <br />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="auto" width="20"/> VS Code <br />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="auto" width="20"/> git <br />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" height="auto" width="20"/> Jira <br />
 </p>
