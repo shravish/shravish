@@ -13,10 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👋 Hi, I'm Shravani V
+
+## About:
+<p>
+I'm a backend developer passionate about building reliable, scalable systems that solve real-world problems.<br />
+
+I have experience working with microservices, message queues (like RabbitMQ), RESTful APIs, and containerized deployments using Docker.<br />
+
+I enjoy clean architecture, well-tested code, and tackling performance bottlenecks. Currently, I'm diving deeper into distributed systems and async processing.<br />
+
+I'm always curious, always learning, and open to collaborating on exciting projects — especially in fast-paced, tech-forward environments<br />
+</p>
+
  💻 Backend Developer | Python | Django | Microservices | Docker  
  🚀 Passionate about building scalable systems and clean, maintainable code  
  🎯 Currently exploring high-performance distributed systems and async architectures  
  🌍 Open to exciting opportunities — especially in tech-driven companies
+
 
  ### Languages & Tools
 
