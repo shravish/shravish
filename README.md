@@ -24,7 +24,6 @@ I'm always curious, always learning, and open to collaborating on exciting proje
 
  💻 Backend Developer | Python | Django | Microservices | Docker  
  🚀 Passionate about building scalable systems and clean, maintainable code  
- 🎯 Currently exploring high-performance distributed systems and async architectures  
  🌍 Open to exciting opportunities — especially in tech-driven companies
 
 
