@@ -16,15 +16,12 @@ Here are some ideas to get you started:
 
 ### About:
 <p>
-I'm a backend developer passionate about building reliable, scalable systems that solve real-world problems.<br />
-I have experience working with microservices, message queues (like RabbitMQ), RESTful APIs, and containerized deployments using Docker.
-I enjoy clean architecture, well-tested code, and tackling performance bottlenecks. Currently, I'm diving deeper into distributed systems and async processing.
-I'm always curious, always learning, and open to collaborating on exciting projects — especially in fast-paced, tech-forward environments.
+Python Backend Developer with a couple of years of experience in designing and building high-performance, scalable web applications and APIs. Proficient in Python, Django, and experience with cloud platforms like AWS. Experienced in building RESTful APIs. Passionate about building clean, maintainable code and delivering robust solutions. Always seeking opportunities to collaborate on challenging projects and contribute to innovative backend engineering.
 </p>
 
  💻 Backend Developer | Python | Django | Microservices | Docker  
  🚀 Passionate about building scalable systems and clean, maintainable code  
- 🌍 Open to exciting opportunities — especially in tech-driven companies
+ 🌍 Open to exciting opportunities
 
 
  ### Languages & Tools:
