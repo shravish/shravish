@@ -14,12 +14,7 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi, I'm Shravani V
 
-### About:
-<p>
-Python Backend Developer with a couple of years of experience in designing and building high-performance, scalable web applications and APIs. Proficient in Python, Django, and experience with cloud platforms like AWS. Experienced in building RESTful APIs. Passionate about building clean, maintainable code and delivering robust solutions. Always seeking opportunities to collaborate on challenging projects and contribute to innovative backend engineering.
-</p>
-
- 💻 Backend Developer | Python | Django | Microservices | Docker  
+ 💻 Backend Developer | Python | Django 
  🚀 Passionate about building scalable systems and clean, maintainable code  
  🌍 Open to exciting opportunities
 
