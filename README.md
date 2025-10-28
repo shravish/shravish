@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi, I'm Shravani V
 
- 💻 Backend Developer | Python | Django 
+ 💻 Backend Developer | Python | Django |
  🚀 Passionate about building scalable systems and clean, maintainable code  
  🌍 Open to exciting opportunities
 
